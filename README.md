@@ -9,7 +9,7 @@ npm
 
 steps to start
 put your api key into a .env file following the pattern in .env.example
-in the console run `npm install` and then `npm start` to launch the app
+in the console run `npm install` and then `npm run start` to launch the app
 
 problems
 due to a lack of experience with MUI some time was wasted with the autocomplete field in the ticker picker.
